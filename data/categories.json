@@ -1,0 +1,10 @@
+[
+  {"id":"games","label":"Games","description":"Standalone games and multiplayer worlds"},
+  {"id":"apps-tools","label":"Apps & Tools","description":"Utilities, editors, scanners, and mobile apps"},
+  {"id":"mods","label":"Mods","description":"Mods, admin tools, and extensions for existing games"},
+  {"id":"ai","label":"AI","description":"AI-powered tools, agents, plugins, and experiments"},
+  {"id":"3d-ar","label":"3D / AR","description":"Room scanning, AR, 3D reconstruction, and spatial tools"},
+  {"id":"websites","label":"Websites","description":"Web apps, hosted tools, and browser projects"},
+  {"id":"experiments","label":"Experiments / Ideas","description":"Early concepts and unfinished explorations"},
+  {"id":"archived","label":"Archived","description":"Projects kept for reference but no longer active"}
+]
