@@ -1,0 +1,13 @@
+{
+  "name": "Catelog",
+  "displayName": "Brad's Workspace",
+  "description": "Public project workspace and canonical AI handoff catalog.",
+  "githubRepo": "nothatcher-creator/Catelog-",
+  "githubBranch": "main",
+  "projectsPath": "data/projects.json",
+  "ownerGithub": "nothatcher-creator",
+  "pinnedOrder": ["worldforge", "roomforge-gameify", "lyricforge"],
+  "defaultSort": "recent",
+  "public": true,
+  "lastUpdated": "2026-09-26T19:50:00Z"
+}
