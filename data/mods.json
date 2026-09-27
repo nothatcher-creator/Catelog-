@@ -1,0 +1,144 @@
+[
+  {
+    "slug": "deck-talents",
+    "gameSlug": "balatro",
+    "name": "Deck Talents",
+    "aliases": ["Deck Talents Pack"],
+    "status": "PAUSED",
+    "summary": "Balatro mod project centered on deck-specific talent and progression ideas.",
+    "description": "Individual Catelog record split out from the older grouped Balatro Mods project.",
+    "tasks": ["Document the latest compatible Balatro and mod-loader versions", "Attach the latest source and release files"],
+    "aiGuidance": ["Do not infer current compatibility from older iterations."]
+  },
+  {
+    "slug": "universal-mod-translator",
+    "gameSlug": "balatro",
+    "name": "Universal Mod Translator",
+    "aliases": ["Balatro Translator Mod"],
+    "status": "PAUSED",
+    "summary": "Balatro translation experiment discussed for Chinese and Turkish mod text.",
+    "description": "Translation-support work separated from the grouped Balatro Mods record.",
+    "tasks": ["Document supported languages and current translation flow", "Attach the latest translator source"],
+    "aiGuidance": ["Do not claim language coverage beyond what is documented."]
+  },
+  {
+    "slug": "simple-admin-menu",
+    "gameSlug": "project-zomboid",
+    "name": "Simple Admin Menu",
+    "aliases": ["PZ Simple Admin Menu"],
+    "status": "WORKING",
+    "summary": "Project Zomboid administration-menu mod with reusable owner/admin controls.",
+    "description": "Individual admin-menu project split from the older grouped Project Zomboid Mods & Admin Tools record.",
+    "tasks": ["Attach the latest source archive", "Document supported Project Zomboid build and installation steps"]
+  },
+  {
+    "slug": "corpse-plow",
+    "gameSlug": "project-zomboid",
+    "name": "Corpse Plow",
+    "aliases": ["Truck Corpse Plow"],
+    "status": "Not documented yet",
+    "summary": "Project Zomboid gameplay mod experiment involving a vehicle-mounted corpse-clearing plow.",
+    "description": "Tracked independently so files, compatibility, bugs, and versions can be documented per release.",
+    "tasks": ["Document the current implementation state", "Attach source and testing notes"]
+  },
+  {
+    "slug": "ontario-map",
+    "gameSlug": "project-zomboid",
+    "name": "Ontario Map",
+    "aliases": ["PZ Ontario Map"],
+    "status": "Not documented yet",
+    "summary": "Project Zomboid map project based on Ontario locations.",
+    "description": "Individual map-mod record separated from the grouped Project Zomboid collection.",
+    "tasks": ["Document map coverage and dependencies", "Attach current map source/assets"]
+  },
+  {
+    "slug": "space-mod",
+    "gameSlug": "project-zomboid",
+    "name": "Space Mod",
+    "aliases": ["PZ Space Mod"],
+    "status": "Not documented yet",
+    "summary": "Project Zomboid space-mod experiment with multiple historical iterations.",
+    "description": "Versions 1 through 6 were discussed historically; exact current compatibility and release state still need to be attached.",
+    "tasks": ["Identify the latest surviving version", "Attach source/downloads and compatibility notes"]
+  },
+  {
+    "slug": "cr-v-style-compact-suv",
+    "gameSlug": "project-zomboid",
+    "name": "CR-V Style Compact SUV",
+    "aliases": ["CR-V Style SUV"],
+    "status": "Not documented yet",
+    "summary": "Project Zomboid vehicle-mod project for a compact SUV inspired by the general CR-V vehicle class.",
+    "description": "Tracked separately so model assets, vehicle tuning, compatibility, and releases can be stored with the mod.",
+    "tasks": ["Attach model/textures and current vehicle definition", "Document compatibility and installation"]
+  },
+  {
+    "slug": "story-admin-menu",
+    "gameSlug": "gta-v",
+    "name": "Story Admin Menu",
+    "aliases": ["GTA V Story Admin Menu"],
+    "status": "Not documented yet",
+    "summary": "GTA V story-mode administration/menu project.",
+    "description": "Individual record for the story-mode admin tooling work.",
+    "tasks": ["Attach the latest source", "Document supported game/script-hook environment"]
+  },
+  {
+    "slug": "nothatchers-customs",
+    "gameSlug": "gta-v",
+    "name": "Nothatcher's Customs",
+    "aliases": [],
+    "status": "Not documented yet",
+    "summary": "GTA V customization mod project branded as Nothatcher's Customs.",
+    "description": "Individual record for customization features, source, versions, and assets.",
+    "tasks": ["Document current features", "Attach the latest source and screenshots"]
+  },
+  {
+    "slug": "admin-menu",
+    "gameSlug": "fallout-4",
+    "name": "Fallout 4 Admin Menu",
+    "aliases": ["Fallout 4 Admin"],
+    "status": "Not documented yet",
+    "summary": "Fallout 4 administration-menu mod project.",
+    "description": "Dedicated Catelog record for Fallout 4 admin tooling.",
+    "tasks": ["Document the current UI/activation method", "Attach the latest source/archive"]
+  },
+  {
+    "slug": "admin-menu",
+    "gameSlug": "skyrim-special-edition",
+    "name": "Skyrim SE Admin Menu",
+    "aliases": ["Skyrim Admin Menu"],
+    "status": "Not documented yet",
+    "summary": "Skyrim Special Edition administration-menu mod project.",
+    "description": "Dedicated Catelog record for Skyrim SE admin tooling.",
+    "tasks": ["Document requirements and supported Skyrim SE version", "Attach the latest source/archive"]
+  },
+  {
+    "slug": "terracore-admin-menu",
+    "gameSlug": "terraria",
+    "name": "TerraCore Admin Menu",
+    "aliases": ["Terraria Admin Menu"],
+    "status": "Not documented yet",
+    "summary": "Terraria administration-menu and tooling mod project.",
+    "description": "Dedicated record for TerraCore admin features, files, issues, and versions.",
+    "tasks": ["Document current loader/framework requirements", "Attach source and release files"]
+  },
+  {
+    "slug": "rustlands",
+    "gameSlug": "arma-3",
+    "name": "Rustlands",
+    "aliases": [],
+    "status": "Not documented yet",
+    "summary": "Arma 3 mod project tracked as Rustlands.",
+    "description": "Dedicated record for the Arma 3 Rustlands project.",
+    "tasks": ["Document current scope and dependencies", "Attach source/assets"]
+  },
+  {
+    "slug": "thrust",
+    "gameSlug": "garrys-mod",
+    "name": "Thrust",
+    "aliases": ["Garry's Mod Thrust"],
+    "status": "Not documented yet",
+    "summary": "Garry's Mod project tracked as Thrust.",
+    "description": "Dedicated record for the Garry's Mod Thrust project.",
+    "tasks": ["Document current behavior and installation", "Attach source/assets"]
+  }
+]
